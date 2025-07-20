@@ -1,5 +1,4 @@
-# MediRAG
-# Clinical RAG Assistant using MIMIC-IV-Ext-DiReCT
+# MediRAG - Clinical RAG Assistant using MIMIC-IV-Ext-DiReCT
 
 This is a **Retrieval-Augmented Generation (RAG)** system built on the [MIMIC-IV-Ext-DiReCT](https://physionet.org/content/mimic-iv-ext-direct/1.0.0/ ) dataset.
 
